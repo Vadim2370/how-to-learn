@@ -2,7 +2,6 @@
 @import url(./__subtitle/header__subtitle.css);
 @import url(./__link/header__link.css);
 @import url(./__main-illustraition/header__main-illustraition.css);
-@import url(./__square-pic/header__square-pic.css);
 
 .header {
   height: 100vh;
