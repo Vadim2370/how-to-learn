@@ -15,5 +15,6 @@
 * Iframe
 * API Youtube
 
-### Планируется доработать:
-- добавить форму для обратной связи
+**Ссылка**
+
+https://vadim2370.github.io/how-to-learn/
